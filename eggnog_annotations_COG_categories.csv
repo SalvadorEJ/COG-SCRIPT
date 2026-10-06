@@ -1,0 +1,20 @@
+COG,Category,Proteins,Percent
+J,"Translation, ribosomal structure and biogenesis",195,5.65
+K,Transcription,337,9.76
+L,"Replication, recombination and repair",116,3.36
+D,"Cell cycle control, cell division, chromosome partitioning",47,1.36
+V,Defense mechanisms,34,0.98
+T,Signal transduction mechanisms,112,3.24
+M,Cell wall/membrane/envelope biogenesis,183,5.3
+N,Cell motility,69,2.0
+O,"Posttranslational modification, protein turnover, chaperones",117,3.39
+C,Energy production and conversion,283,8.19
+G,Carbohydrate transport and metabolism,189,5.47
+E,Amino acid transport and metabolism,322,9.32
+F,Nucleotide transport and metabolism,112,3.24
+H,Coenzyme transport and metabolism,165,4.78
+I,Lipid transport and metabolism,147,4.26
+P,Inorganic ion transport and metabolism,275,7.96
+Q,"Secondary metabolites biosynthesis, transport and catabolism",133,3.85
+R,General function prediction only,0,0.0
+S,Function unknown,618,17.89
